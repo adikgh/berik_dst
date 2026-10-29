@@ -646,3 +646,10 @@ body{ background: var(--bp-bg); color: var(--bp-text); }
 .bp_dr .bp_li.bp_li_act{ background: var(--bp-green-bg); }
 .bp_dr .bp_li_ic{ background: #fff; }
 .oh_list .oh_dot{ box-shadow: 0 0 0 3px #fff; }
+
+/* Аккаунт: төменгі жазу (gprog + Berik POS) — курьер сайтындағыдай */
+.up_cg{ display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 36px 0 24px; }
+.up_cg .gprog_bl{ display: inline-flex; align-items: center; gap: 6px; color: var(--bp-muted); font-size: 13px; font-weight: 600; text-decoration: none; }
+.up_cg .gprog_heart{ font-size: 13px; color: #e5484d; line-height: 1; }
+.up_brand{ display: flex; align-items: center; gap: 10px; font-size: 12px; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #b3b8c2; }
+.up_brand::before, .up_brand::after{ content: ""; width: 24px; height: 1px; background: #d9dce1; }

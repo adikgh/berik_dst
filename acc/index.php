@@ -66,7 +66,14 @@
 				<span><?=t::w('Шығу', 'Выйти')?></span>
 			</a>
 
-			<div class="bp_brandline">BERIK <b>POS</b></div>
+			<div class="up_cg">
+				<a href="https://gprog.kz" target="_blank" rel="noopener" class="gprog_bl">
+					<span>#gprog-та</span>
+					<div class="gprog_heart"><i class="fas fa-heart"></i></div>
+					<span><?=t::w('жасалған', 'сделано')?></span>
+				</a>
+				<div class="up_brand">Berik POS</div>
+			</div>
 
 		</div>
 	</div>

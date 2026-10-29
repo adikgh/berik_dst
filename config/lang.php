@@ -98,4 +98,5 @@ return [
 	'Номер клиента' => ['Client phone', 'Mijoz raqami', 'Кардардын номери'],
 	'Комментарий' => ['Comment', 'Izoh', 'Комментарий'],
 	'Полная информация' => ['Full details', 'To‘liq ma’lumot', 'Толук маалымат'],
+	'сделано' => ['made', 'yaratilgan', 'жасалган'],
 ];
