@@ -1,0 +1,10 @@
+/config/db.php
+/config/secret.php
+/config/smsc_api.php
+/config/map_key.php
+/assets/pl/fontawesome/
+/assets/uploads/users/*
+!/assets/uploads/users/Sample_User_Icon.png
+*.sql
+*.bak*
+*.log
